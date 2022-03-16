@@ -1,3 +1,4 @@
 Lisäsin tämän paikallisessa työhakemistossa
+Lisäsin tämän rivin Githubissa
 Tätä tekstiä ei ole paikallisessa työhakemistossa
 Tätä riviä ei ole Githubissa
